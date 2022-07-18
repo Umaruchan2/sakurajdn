@@ -368,7 +368,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 /*Link*/
 global.sig = 'https://instagram.com/wudysoft.2'
 global.sgh = 'https://github.com/RyhnXD'
-global.sgc = 'https://chat.whatsapp.com/KOughnpmtzzF0k9aX78CVq'
+global.sgc = 'https://chat.whatsapp.com/IJ5wIhRoB4i5d89Av7QWNq'
 global.sdc = 'https://github.com/RyhnXD'
 global.snh = 'https://github.com/RyhnXD'
 
@@ -414,7 +414,7 @@ global.htjava = '⫹⫺'
 global.stickpack = '.'
 global.stickauth = `☂︎ S̸a̸k̸u̸r̸a̸ B̸o̸t̸z̸\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.author = 'S̑̈ȃ̈d̑̈B̑̈ȏ̈t̑̈z̑̈'
+global.author = 'Han'
 global.multiplier = 69
 
 /*Pesan*/
@@ -423,7 +423,7 @@ global.wait = 'Wait...'
 global.render = 'Render...'
 global.webs = 'https://s.id/Cerdasin62/'
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
-global.gcwangsaf = 'https://chat.whatsapp.com/KOughnpmtzzF0k9aX78CVq'
+global.gcwangsaf = 'https://chat.whatsapp.com/IJ5wIhRoB4i5d89Av7QWNq'
 
 /*Donasi*/
 global.saweria = 'https://saweria.co/wudysoft'
